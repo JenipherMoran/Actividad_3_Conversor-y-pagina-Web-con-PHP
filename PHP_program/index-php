@@ -1,0 +1,15 @@
+PHP>
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <title>Actividad PHP </title>
+</head>
+<body>
+
+<h1>Hola mundo, soy Jenipher Moran y esta es mi mascota Lola</h1>
+
+<img src="imagenIA.jpg" width="400">
+
+</body>
+</html>
+
