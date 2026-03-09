@@ -1,0 +1,25 @@
+Convertidor de Moneda en C
+
+Descripción: 
+Este programa fue desarrolado en lenguaje C y permite realizar conversiones básicas entre quétzales, dólares y euros utilizando un menú interactivo en la terminal.
+El objetivo de este ejercicio es practicar la compilación y ejecución de programas en C.
+
+Pre - requisitos:
+GCC (GNU Compiler Collection)
+Git
+Visual Code
+
+Tecnología utilizada:
+Lenguaje C
+
+Pasos para ejecución:
+
+Clonar el repositorio
+Entrar a la carpeta del programa
+Compilar el programa: gcc converter.c -o converter
+Ejecutar el programa: ./converter
+
+Autor:
+Jenipher Moran
+12170012@galileo.edu
+Carnet: 12170012
